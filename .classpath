@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="AddLibs/jxbrowser-7.5.jar"/>
+	<classpathentry kind="lib" path="AddLibs/jxbrowser-javafx-7.5.jar"/>
+	<classpathentry kind="lib" path="AddLibs/jxbrowser-linux64-7.5.jar"/>
+	<classpathentry kind="lib" path="AddLibs/jxbrowser-linux64-arm-7.5.jar"/>
+	<classpathentry kind="lib" path="AddLibs/jxbrowser-mac-7.5.jar"/>
+	<classpathentry kind="lib" path="AddLibs/jxbrowser-swing-7.5.jar"/>
+	<classpathentry kind="lib" path="AddLibs/jxbrowser-win32-7.5.jar"/>
+	<classpathentry kind="lib" path="AddLibs/jxbrowser-win64-7.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
